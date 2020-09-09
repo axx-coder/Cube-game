@@ -1,0 +1,50 @@
+body
+{
+	background-color:#333333;
+}
+.container
+{
+	text-align: center;
+	font-size:50px;
+	margin:auto;
+}
+.dice
+{
+	text-align: center;
+	display: inline-block;
+}
+h1
+{
+	font-family: 'Black Han Sans', sans-serif;
+font-family: 'Coda Caption', sans-serif;
+font-family: 'Pattaya', sans-serif;
+	margin:30px;
+	color: #00b3b3;
+}
+p
+{
+	font-size:2rem;
+font-family: 'Asul', sans-serif;
+	color: #00cc99;
+}
+footer
+{
+	text-align: center;
+	padding-top:20px;
+}
+.but
+{
+	padding:15px;
+	background-color:yellow;
+	text-decoration-line:none;
+	color: black;
+	
+}
+.anch
+{
+	text-decoration: none;
+	text-decoration-style: solid;
+	color: black;
+	font-family: 'Black Han Sans', sans-serif;
+	
+}
